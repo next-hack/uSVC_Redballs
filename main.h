@@ -42,4 +42,4 @@
 uint16_t getFrameTicks(void);
 #define DEBUG_TIME 0		// to determine time usage.
 extern uint16_t gLine;
-#endif /* UCHIPPLAY_H_ */
+#endif /* MAIN_H_ */
